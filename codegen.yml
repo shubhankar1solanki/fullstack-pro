@@ -37,3 +37,4 @@ generates:
       - add: |
           /* tslint:disable */
       - typescript-react-apollo
+
